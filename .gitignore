@@ -1,2 +1,5 @@
 /JAVA11.iml
 /.idea/sonarlint/issuestore/index.pb
+/.idea/sonarIssues.xml
+/target/classes/com/jff/java11/lambdaenhacement/AddInterface1.class
+/target/classes/com/jff/java11/stringhandling/StringsLinesDemo.class
